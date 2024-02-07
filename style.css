@@ -1,4 +1,23 @@
 body{
-    font-size: large;
-    font-weight: bold;
+  justify-content: center;
+}
+
+h1{
+    font-size: 4rem;
+    display: inline-block;
+    color: #fffbfe;
+    background-color: #03492f;
+    padding: 15px;
+    border-radius: 15px 0 15px 30px;
+    
+}
+h2{
+    font-size: 3rem;
+    color: #fffbfe;
+    display: inline-block;
+    background-color: #b03e0f;
+    border-radius: 15px 0 15px 30px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding: 10px;
 }
